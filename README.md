@@ -22,8 +22,8 @@ I am a web developer :fire:. Currently front-end developer, I am looking to deve
 
 ### 📫 How to reach me :
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentinafonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
 </a>
 <a href="mailto:valentinafonso22@gmail.com" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentinafonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
 </a>
