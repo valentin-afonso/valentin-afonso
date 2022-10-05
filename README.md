@@ -17,6 +17,10 @@ I am a web developer :fire:. Currently front-end developer, I am looking to deve
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/html.png" alt="html5" width="45px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/js.png" alt="javascript" width="45px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/css3.png" alt="css3" width="45px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/firebase.png" alt="firebase" width="45px" /> 
+
 
 ### 📫 How to reach me :
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/">
