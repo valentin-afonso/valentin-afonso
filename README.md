@@ -27,3 +27,9 @@ I am a web developer :fire:. Currently front-end developer, I am looking to deve
 <a href="mailto:valentinafonso22@gmail.com" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/email.png" alt="Send email" width="50px" />
 </a>
+<a href="https://www.instagram.com/valentinafso/" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/instagram.png" alt="Instagram" width="50px" />
+</a>
+<a href="https://twitter.com/" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/twitter.png" alt="Twitter" width="50px" />
+</a>
