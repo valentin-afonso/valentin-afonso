@@ -25,5 +25,5 @@ I am a web developer :fire:. Currently front-end developer, I am looking to deve
 <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
 </a>
 <a href="mailto:valentinafonso22@gmail.com" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/email.png" alt="Send email" width="50px" />
 </a>
