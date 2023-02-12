@@ -2,7 +2,7 @@
 
 ## <p align="center">👋 Hi, I’m Valentin Afonso</p>
 
-I am a web developer :fire:. Currently front-end developer, I am looking to develop my back-end skills :rocket:  
+Front-end developer :fire:
 
 * Currently working in a web agency : [UpMotion](https://www.up-motion.fr/)  
 * Currently studying for a master's degree in web development : [ECV Nantes](https://www.ecv.fr/)
