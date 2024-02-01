@@ -2,34 +2,48 @@
 
 ## <p align="center">👋 Hi, I’m Valentin Afonso</p>
 
-Front-end developer :fire:
+### Who am i ?
+> Web developer :computer:  
+Aiming to specialize in   •React   •Next   •Other cool stuff
 
-* Currently working in a web agency : [UpMotion](https://www.up-motion.fr/)  
-* Currently studying for a master's degree in web development : [ECV Nantes](https://www.ecv.fr/)
+* :department_store: Currently working in a web agency : [UpMotion](https://www.up-motion.fr/)  
+* 🎓 Graduated with a master's degree in web development at [ECV Nantes](https://www.ecv.fr/)
 
 ### :dart: I’m interested in :
 
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/html.png" alt="html5" width="50px" />
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/js.png" alt="javascript" width="50px" />
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/css3.png" alt="css3" width="50px" />
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/firebase.png" alt="firebase" width="50px" /> 
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/strapi.jpg" alt="strapi" width="50px" /> 
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/react.png" alt="react js" width="50px" /> 
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/php.png" alt="php" width="50px" /> 
-<img  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/laravel.png" alt="laravel" width="50px" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-react-xl.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-next.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-contao.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-tailwind.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-html.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-css.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-js.png" alt="react" />
+<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-typescript.png" alt="react" />
+<img  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-php.png" alt="react" />  
 
------------------
 
-### 📫 How to reach me :
+Do you want to know more about my work ?  
+[Explore my portfolio right here.](https://github.com/valentin-afonso)  
+
+
+### Some of my projects  
+Projects | Stack
+--- | ---
+**portfolio** | `Next` `Tailwind`
+**Netflix app** | `Next` `Tailwind` `api`  
+
+---
+<p align="center">Thanks for visitigng my repo</p>  
+<p align="center">You can folow me right here</p>  
+
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/linkedin.png" alt="Valentin Afonso | LinkedIn" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png" alt="Valentin Afonso | LinkedIn" width:"25px" height:"25px" />
 </a>
 <a href="mailto:valentinafonso22@gmail.com" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/email.png" alt="Send email" width="50px" />
-</a>
-<a href="https://www.instagram.com/valentinafso/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/instagram.png" alt="Instagram" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-github.png" alt="github" width:"25px" height:"25px" />
 </a>
 <a href="https://twitter.com/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/twitter.png" alt="Twitter" width="50px" />
+<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-twitter.png" alt="Twitter" width:"25px" height:"25px" />
 </a>
+
+
