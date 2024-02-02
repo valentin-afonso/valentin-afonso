@@ -33,8 +33,8 @@ Projects | Stack | Link
 **Netflix app** | `Next` `Tailwind` `api` | :point_right: available soon
 
 ---
-<p align="center">Thanks for visitigng my repo</p>  
-<p align="center">You can folow me right here</p>  
+### Thanks for visitigng my repo  
+You can folow me right here
 
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png" alt="Valentin Afonso | LinkedIn" width:"25px" height:"25px" />
