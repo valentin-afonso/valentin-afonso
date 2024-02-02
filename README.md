@@ -27,10 +27,10 @@ Do you want to know more about my work ?
 
 
 ### Some of my projects  
-Projects | Stack
---- | ---
-**portfolio** | `Next` `Tailwind`
-**Netflix app** | `Next` `Tailwind` `api`  
+Projects | Stack | Link
+--- | --- | ---
+**portfolio** | `Next` `Tailwind` | :point_right: available soon
+**Netflix app** | `Next` `Tailwind` `api` | :point_right: available soon
 
 ---
 <p align="center">Thanks for visitigng my repo</p>  
