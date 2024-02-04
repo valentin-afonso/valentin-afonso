@@ -6,15 +6,15 @@
 > Web developer :computer:  
 Aiming to specialize in   •React   •Next   •Other cool stuff
 
-* :department_store: Currently working in a web agency : [UpMotion](https://www.up-motion.fr/)  
+* :department_store: Currently working in a web agency : [UPMOTION](https://www.up-motion.fr/)  
 * 🎓 Graduated with a master's degree in web development at [ECV Nantes](https://www.ecv.fr/)
 
 ### :dart: I’m interested in :
 
 <img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" />  
+
 Do you want to know more about my work ?  
 [Explore my portfolio right here.](https://github.com/valentin-afonso)  
-
 
 ### Some of my projects  
 Projects | Stack | Link
