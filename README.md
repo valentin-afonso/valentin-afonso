@@ -11,17 +11,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 
 ### :dart: I’m interested in :
 
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-react-xl.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-next.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-contao.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-tailwind.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-html.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-css.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-js.png" alt="react" />
-<img align="left"  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-typescript.png" alt="react" />
-<img  src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tag-php.png" alt="react" />  
-
-
+<img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" />  
 Do you want to know more about my work ?  
 [Explore my portfolio right here.](https://github.com/valentin-afonso)  
 
