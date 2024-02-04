@@ -13,14 +13,14 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 
 <img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" />  
 
-Do you want to know more about my work ?  
-[Explore my portfolio right here.](https://github.com/valentin-afonso)  
-
 ### Some of my projects  
 Projects | Stack | Link
 --- | --- | ---
 **portfolio** | `Next` `Tailwind` | :point_right: available soon
-**Netflix app** | `Next` `Tailwind` `api` | :point_right: available soon
+**Netflix app** | `Next` `Tailwind` `api` | :point_right: available soon  
+
+Do you want to know more about my work ?  
+[Explore my portfolio right here.](https://github.com/valentin-afonso)  
 
 ---
 ### Thanks for visitigng my repo  
