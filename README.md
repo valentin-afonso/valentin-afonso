@@ -13,7 +13,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 ### :dart: I’m interested in :
 </br>
 
-<img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" />  
+<img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" width="560px" />  
 
 </br>  
 
