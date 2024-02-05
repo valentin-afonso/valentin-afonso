@@ -27,7 +27,11 @@ Do you want to know more about my work ?
 You can folow me right here
 
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png" alt="Valentin Afonso | LinkedIn" width:"25px" height:"25px" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png">
+  <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-linkedin.png" alt="Valentin Afonso | LinkedIn" width:"25px" height:"25px" />
+  </picture>
 </a>
 <a href="https://github.com/valentin-afonso" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/icon-github.png" alt="github" width:"25px" height:"25px" />
