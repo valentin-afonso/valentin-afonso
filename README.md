@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74588309/194080800-4ca79ddc-12a3-489a-b32d-430f172189c5.png" alt="my banner" >
 
-# <p align="center">👋 Hi, I’m Valentin Afonso</p>
+# <p align="center">👋 Hi, I’m Valentin</p>
 </br>
   
 ### Who am I ?
