@@ -7,8 +7,8 @@
 > Web developer :computer:  
 Aiming to specialize in   •React   •Next   •Other cool stuff
 
-* :department_store: Currently working in a web agency : [UPMOTION](https://www.up-motion.fr/)  
-* 🎓 Graduated with a master's degree in web development at [ECV Nantes](https://www.ecv.fr/)
+> :department_store: Currently working in a web agency : [UPMOTION](https://www.up-motion.fr/)  
+🎓 Graduated with a master's degree in web development at [ECV Nantes](https://www.ecv.fr/)
 
 ### :dart: I’m interested in :
 </br>
