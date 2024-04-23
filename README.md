@@ -3,7 +3,7 @@
 # <p align="center">👋 Hi, I’m Valentin</p>
 </br>
   
-### Who am I ?
+### :eyes: Who am I ?
 > Web developer :computer:  
 Aiming to specialize in   •React   •Next   •Other cool stuff
 
@@ -17,7 +17,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 
 </br>  
 
-### Some of my projects  
+### :rocket: Some of my projects  
 Projects | Stack | Link
 --- | --- | ---
 **portfolio** | `Next` `Tailwind` | :point_right: available soon
