@@ -2,11 +2,12 @@
 
 # <p align="center">👋 Hi, I’m Valentin</p> 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/porfolio-qrcode-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-light.png">
-  <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-dark.png" alt="portfolio | valentin.afso" width:"67px" height:"67px" />
-  </picture>
-</br>
+  <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/porfolio-qrcode-dark.png" alt="portfolio | valentin.afso" width:"67px" height:"67px" />
+  </picture> 
+
+</br></br> 
   
 ### :eyes: Who am I ?
 > Web developer :computer:  
