@@ -1,6 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74588309/194080800-4ca79ddc-12a3-489a-b32d-430f172189c5.png" alt="my banner" >
 
-# <p align="center">👋 Hi, I’m Valentin</p>
+# <p align="center">👋 Hi, I’m Valentin</p> 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-light.png">
+  <img align="left" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-dark.png" alt="portfolio | valentin.afso" width:"67px" height:"67px" />
+  </picture>
 </br>
   
 ### :eyes: Who am I ?
