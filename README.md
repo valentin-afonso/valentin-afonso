@@ -32,8 +32,10 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 ### :rocket: Some of my projects  
 Projects | Stack | Link
 --- | --- | ---
-**portfolio** | `Next` `Tailwind` | :point_right: available soon
-**Netflix app** | `Next` `Tailwind` `api` | :point_right: available soon  
+**valentinafso (portfolio)** | `Next` `typescript` `Tailwind` | :point_right: [valentinafso](https://valentinafso.vercel.app)
+**Mymovies-afso** | `Next`  `Next-auth` `Tailwind` `api` | :point_right: [mymovies-afso](https://mymovies-afso.vercel.app)
+**Todolist** | `Next` `Tailwind` | :point_right: available soon 
+
 
 </br>  
 
