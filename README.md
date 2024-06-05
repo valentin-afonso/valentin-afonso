@@ -34,7 +34,7 @@ Projects | Stack | Link
 --- | --- | ---
 **valentinafso (portfolio)** | `Next` `typescript` `Tailwind` | :point_right: [valentinafso](https://valentinafso.vercel.app)
 **Mymovies-afso** | `Next`  `Next-auth` `Tailwind` `api` | :point_right: [mymovies-afso](https://mymovies-afso.vercel.app)
-**Todolist** | `Next` `Tailwind` | :point_right: available soon 
+**mindcheck** | `Next` `Tailwind` | :point_right: available soon 
 
 
 </br>  
