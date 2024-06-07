@@ -33,7 +33,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 Projects | Stack | Link
 --- | --- | ---
 **valentinafso (portfolio)** | `Next` `typescript` `Tailwind` | :point_right: [valentinafso](https://valentinafso.vercel.app)
-**mymovies-afso** | `Next`  `Next-auth` `Tailwind` `api` | :point_right: [mymovies-afso](https://mymovies-afso.vercel.app)
+**mymovies-afso** | `Next` `typescript` `Next-auth` `Tailwind` `api` `PostgreSQL` | :point_right: [mymovies-afso](https://mymovies-afso.vercel.app)
 **mindcheck (todolist)** | `Next` `Tailwind` | :point_right: available soon 
 
 
