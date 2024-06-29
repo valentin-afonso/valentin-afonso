@@ -4,8 +4,6 @@
 <div style="text-align:center">
   <p align="center" width="100%">
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/porfolio-qrcode-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/portfolio-qrcode-light.png">
   <img align="center" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/porfolio-qrcode.png" alt="portfolio | valentin.afso" width:"67px" height:"67px" />
   </picture> 
   </p>
