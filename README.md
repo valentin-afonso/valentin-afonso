@@ -33,7 +33,7 @@ Projects | Stack | Link
 **valentinafso (portfolio)** | `Next` `typescript` `Tailwind` | :point_right: [valentinafso](https://valentinafso.vercel.app)
 **mymovies-afso** | `Next` `typescript` `Next-auth` `Tailwind` `api` `PostgreSQL` `Prisma` | :point_right: [mymovies-afso](https://mymovies-afso.vercel.app)
 **mindcheck (todolist)** | `Next` `typescript` `Tailwind` | :point_right: [mindcheck-afso](https://mindcheck-afso.vercel.app)
-**staytuneed** | `Next` `typescript` `Tailwind` `DatoCMS` | :point_right: available soon 
+**staytuneed** | `Next` `typescript` `Tailwind` `DatoCMS` | :point_right: [staytuneed](https://www.staytuneed.com/)
 
 
 </br>  
