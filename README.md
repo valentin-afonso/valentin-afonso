@@ -23,7 +23,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 ### :dart: I’m interested in :
 </br>
 
-<img src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/tags.png" alt="tags" width="560px" />  
+`React`  •  `Next`  •  `Typescript`  •  `Javascript`  •  `Contao`  •  `Symfony`  •  `Tailwind`  •  `DatoCMS` 
 
 </br>  
 
