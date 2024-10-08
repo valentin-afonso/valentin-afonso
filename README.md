@@ -38,7 +38,7 @@ Projects | Stack | Link
 
 </br>  
 
-Do you want to know more about my work ?  
+Want to find out more about my work ?  
 [Explore my portfolio right here.](https://github.com/valentin-afonso)  
 
 </br>  
@@ -46,7 +46,7 @@ Do you want to know more about my work ?
 </br>
 
 ---
-### Thanks for visitigng my repo ! 
+### Thank you for exploring my repo!  
 You can folow me right here
 
 <a href="https://www.linkedin.com/in/valentin-afonso-793130199/" target="_blank">
