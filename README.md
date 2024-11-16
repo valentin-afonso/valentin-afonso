@@ -39,7 +39,7 @@ Projects | Stack | Link
 </br>  
 
 Want to find out more about my work ?  
-[Explore my portfolio right here.](https://github.com/valentin-afonso)  
+[Explore my portfolio right here.](https://valentinafso.vercel.app/en)  
 
 </br>  
 </br>  
