@@ -23,7 +23,7 @@ Aiming to specialize in   •React   •Next   •Other cool stuff
 ### :dart: I’m interested in :
 </br>
 
-`React`  •  `Next`  •  `Typescript`  •  `Javascript`  •  `Contao`  •  `Symfony`  •  `Tailwind`  •  `DatoCMS` 
+`React`  •  `Next`  •  `Express`  •  `Typescript`  •  `Javascript`  •  `Contao`  •  `Symfony`  •  `Tailwind`  •  `DatoCMS`   •  `Directus` 
 
 </br>  
 
