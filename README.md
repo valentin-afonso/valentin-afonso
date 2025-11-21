@@ -13,17 +13,26 @@
   
 ### :eyes: Who am I ?
 > Web developer :computer:  
-Aiming to specialize in   •React   •Next   •Other cool stuff
+Enthusiastic freelance software • fullstack engineer | React | Next | Everything cool 
 
 > :department_store: Currently working in a web agency : [UPMOTION](https://www.up-motion.fr/)  
 🎓 Graduated with a master's degree in web development at [ECV Nantes](https://www.ecv.fr/)
 
 </br>
 
-### :dart: I’m interested in :
+### :dart: Tech Stack Overview :
 </br>
 
-`React`  •  `Next`  •  `Express`  •  `Typescript`  •  `Javascript`  •  `Contao`  •  `Symfony`  •  `Tailwind`  •  `DatoCMS`   •  `Directus` 
+Languages  →  `Typescript`  •  `Javascript`  •  `PHP`
+   
+CMS  →  `Contao`  •  `DatoCMS`  •  `Prestashop`   •  `Directus`   •  `Sanity`  
+   
+Frontend  →  `React`  •  `Vite`   •  `Tailwind`  
+
+Framework  →   `Next`  •  `TanStack Start`  •  `Astro`  •  `Express`  •  `Hono`   •  `Symfony`  
+
+Dataabse  →  `PostgresQL`  •  `MySQL`  •  `MongoDB`
+
 
 </br>  
 
