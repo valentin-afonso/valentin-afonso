@@ -1,13 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74588309/194080800-4ca79ddc-12a3-489a-b32d-430f172189c5.png" alt="my banner" >
 
 # <p align="center">👋 Hi, I’m Valentin</p> 
-<div style="text-align:center">
-  <p align="center" width="100%">
-    <picture>
-  <img align="center" src="https://raw.githubusercontent.com/valentin-afonso/valentin-afonso/main/img/porfolio-qrcode.png" alt="portfolio | valentin.afso" width:"67px" height:"67px" />
-  </picture> 
-  </p>
-</div>
 
 </br>
   
@@ -31,7 +24,7 @@ Frontend  →  `React`  •  `Vite`   •  `Tailwind`
 
 Framework  →   `Next`  •  `TanStack Start`  •  `Astro`  •  `Express`  •  `Hono`   •  `Symfony`  
 
-Dataabse  →  `PostgresQL`  •  `MySQL`  •  `MongoDB`
+Database  →  `PostgresQL`  •  `MySQL`  •  `MongoDB`
 
 
 </br>  
@@ -48,7 +41,7 @@ Projects | Stack | Link
 </br>  
 
 Want to find out more about my work ?  
-[Explore my portfolio right here.](https://valentinafso.vercel.app/en)  
+[Explore my portfolio right here.](https://valentinafonso.com)  
 
 </br>  
 </br>  
